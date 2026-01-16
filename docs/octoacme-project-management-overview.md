@@ -14,10 +14,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
+- Project Sponsor: provides executive oversight, authorization, and strategic direction.
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Solution Architect: defines technical strategy, system design, and integration approaches.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA Lead: defines quality strategy, coordinates testing, and ensures release readiness.
+- Business Analyst: gathers requirements, documents processes, and bridges business-technical gaps.
+- Change Manager: facilitates organizational adoption and manages change impact.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts

@@ -12,11 +12,18 @@ Quality assurance practices ensure consistent delivery standards. Our Definition
 
 ## Docs Index
 
+### Core Process Documentation
+
 - [OctoAcme Project Management Overview](./octoacme-project-management-overview.md) — High-level principles, roles, artifacts, lifecycle, and communication cadence
-- [OctoAcme Roles and Personas](./octoacme-roles-and-personas.md) — Detailed responsibilities and goals for Developers, Product Managers, Project Managers, QA, and Stakeholders
+- [OctoAcme Roles and Personas](./octoacme-roles-and-personas.md) — Detailed responsibilities and goals for all project roles including Developers, Product Managers, Project Managers, Project Sponsors, Solution Architects, QA Leads, Change Managers, Business Analysts, and Stakeholders
 - [OctoAcme Project Initiation](./octoacme-project-initiation.md) — Validating ideas, creating Project One-pagers, and getting approval to move into planning
 - [OctoAcme Project Planning](./octoacme-project-planning.md) — Building actionable backlogs, defining Definition of Done, and creating release plans
 - [OctoAcme Execution and Tracking](./octoacme-execution-and-tracking.md) — Day-to-day delivery rhythms, PR workflows, quality standards, and blocker escalation
 - [OctoAcme Risk Management & Communication](./octoacme-risks-and-communication.md) — Managing the Risk Register, stakeholder updates, and escalation paths
 - [OctoAcme Release and Deployment](./octoacme-release-and-deployment.md) — Pre-release requirements, deployment checklists, and rollback procedures
 - [OctoAcme Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md) — Running retrospectives, tracking action items, and driving iterative improvements
+
+### Templates and Tools
+
+- [OctoAcme RACI Template](./octoacme-raci-template.md) — Responsibility assignment matrix for clarifying roles and decision-making authority across project activities
+- [OctoAcme Role Onboarding Checklist](./octoacme-role-onboarding-checklist.md) — Comprehensive onboarding guide for all project roles with role-specific checklists and 30-60-90 day goals
