@@ -26,25 +26,25 @@ The RACI matrix clarifies roles and responsibilities for key project activities 
 
 ## Template
 
-| Activity / Decision | Project Sponsor | Project Manager | Product Manager | Solution Architect | Developer | QA Lead | Business Analyst | Change Manager |
-|---------------------|-----------------|-----------------|-----------------|--------------------|-----------|---------|--------------------|----------------|
-| Approve project initiation | A | R | C | C | I | I | C | I |
-| Define project scope | C | A | R | C | I | I | R | I |
-| Create project plan | I | A/R | C | C | I | C | I | I |
-| Approve budget | A | R | I | I | I | I | I | I |
-| Define technical architecture | I | I | C | A/R | C | C | I | I |
-| Implement features | I | I | C | C | A/R | C | I | I |
-| Define test strategy | I | C | C | C | C | A/R | I | I |
-| Execute testing | I | I | I | I | C | A/R | I | I |
-| Define acceptance criteria | I | C | A | C | C | R | R | I |
-| Approve release | C | A | C | C | I | R | I | I |
-| Manage project risks | C | A/R | C | C | I | C | I | I |
-| Stakeholder communication | I | A/R | C | I | I | I | C | C |
-| Facilitate retrospectives | I | A/R | C | I | C | C | C | I |
-| Develop change plan | C | C | I | I | I | I | C | A/R |
-| Conduct training | I | I | I | I | I | I | C | A/R |
-| Business requirements gathering | I | C | A | I | I | I | R | C |
-| Technical design review | I | I | C | A | R | C | I | I |
+| Activity / Decision | Project Sponsor | Project Manager | Product Manager | Solution Architect | Developer | QA Lead | Business Analyst | Change Manager | Stakeholders |
+|---------------------|-----------------|-----------------|-----------------|--------------------|-----------|---------|--------------------|----------------|--------------|
+| Approve project initiation | A | R | C | C | I | I | C | I | C |
+| Define project scope | C | A | R | C | I | I | R | I | C |
+| Create project plan | I | A/R | C | C | I | C | I | I | I |
+| Approve budget | A | R | I | I | I | I | I | I | C |
+| Define technical architecture | I | I | C | A/R | C | C | I | I | I |
+| Implement features | I | I | C | C | A/R | C | I | I | I |
+| Define test strategy | I | C | C | C | C | A/R | I | I | I |
+| Execute testing | I | I | I | I | C | A/R | I | I | I |
+| Define acceptance criteria | I | C | A | C | C | R | R | I | C |
+| Approve release | C | A | C | C | I | R | I | I | I |
+| Manage project risks | C | A/R | C | C | I | C | I | I | I |
+| Stakeholder communication | I | A/R | C | I | I | I | C | C | I |
+| Facilitate retrospectives | I | A/R | C | I | C | C | C | I | I |
+| Develop change plan | C | C | I | I | I | I | C | A/R | C |
+| Conduct training | I | I | I | I | I | I | C | A/R | I |
+| Business requirements gathering | I | C | A | I | I | I | R | C | C |
+| Technical design review | I | I | C | A | R | C | I | I | I |
 
 ## Instructions for Use
 

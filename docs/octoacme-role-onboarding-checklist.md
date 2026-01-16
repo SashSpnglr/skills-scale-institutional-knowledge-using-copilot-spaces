@@ -157,7 +157,7 @@ This checklist helps new team members quickly understand their role, responsibil
 - [ ] Set up recurring meetings (standups, syncs, retrospectives)
 - [ ] Review project board and workflow states
 - [ ] Establish status reporting cadence with stakeholders
-- [ ] Review [Project Initiation](./octoacme-project-initiation.md), [Planning](./octoacme-project-planning.md), and [Execution](./octoacme-execution-and-tracking.md) guides
+- [ ] Review [Project Initiation](./octoacme-project-initiation.md), [Project Planning](./octoacme-project-planning.md), and [Execution](./octoacme-execution-and-tracking.md) guides
 
 **Key Artifacts to Review**:
 - Project charter and one-pager
